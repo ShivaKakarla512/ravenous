@@ -1,3 +1,4 @@
 # ravenous
-React App that used Yelp API to get restaurant details based on various settings.
+Web application for users to find restaurants based on various settings such as name, location, ratings, and reviews. Made using React and Yelp API. Deployed on Netlify.
+
 https://ravenousreactapp.netlify.app/
