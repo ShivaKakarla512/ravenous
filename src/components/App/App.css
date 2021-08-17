@@ -34,6 +34,11 @@ input:focus {
   font-family: 'Work Sans', sans-serif;
 }
 
+.App p {
+  padding-left: 1rem;
+  padding-top: 1rem;
+}
+
 h1 {
   padding: .66rem 0;
   text-align: center;
